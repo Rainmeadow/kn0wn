@@ -1,2 +1,2 @@
- # ignore objects and archives, anywhere in the tree.
-*.~lock.*
+ # ignore temporary files, anywhere in the tree.
+~*
