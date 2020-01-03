@@ -1,2 +1,2 @@
  # ignore temporary files, anywhere in the tree.
-~*
+.~lock*
